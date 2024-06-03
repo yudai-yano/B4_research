@@ -1,0 +1,33 @@
+,1st_set,2nd_set,3rd_set
+0,"lac    0.331731
+Name: 0, dtype: float64","lac    0.668269
+Name: 1, dtype: float64","lac    1.0
+Name: 2, dtype: float64"
+1,"lac    0.134615
+Name: 3, dtype: float64","lac    0.322115
+Name: 4, dtype: float64","lac    0.504808
+Name: 5, dtype: float64"
+2,"lac    0.125
+Name: 6, dtype: float64","lac    0.230769
+Name: 7, dtype: float64","lac    0.355769
+Name: 8, dtype: float64"
+3,"lac    0.293269
+Name: 9, dtype: float64","lac    0.408654
+Name: 10, dtype: float64","lac    0.528846
+Name: 11, dtype: float64"
+4,"lac    0.163462
+Name: 12, dtype: float64","lac    0.408654
+Name: 13, dtype: float64","lac    0.4375
+Name: 14, dtype: float64"
+5,"lac    0.225962
+Name: 15, dtype: float64","lac    0.206731
+Name: 16, dtype: float64","lac    0.408654
+Name: 17, dtype: float64"
+6,"lac    0.168269
+Name: 18, dtype: float64","lac    0.341346
+Name: 19, dtype: float64","lac    0.514423
+Name: 20, dtype: float64"
+7,"lac    0.110577
+Name: 21, dtype: float64","lac    0.168269
+Name: 22, dtype: float64","lac    0.25
+Name: 23, dtype: float64"

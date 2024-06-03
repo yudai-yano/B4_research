@@ -1,0 +1,6 @@
+*.png
+*.csv
+*.zip
+squat_analyze_2022_11/output/pose_compare/abs_stats/honma_40per_1.csv
+squat_analyze_2022_11/output/pose_compare/stats/honma_40per_2.csv
+squat_analyze_2022_11/output/pose_compare/stats/honma_40per_4.csv
